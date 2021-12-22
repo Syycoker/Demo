@@ -1,0 +1,15 @@
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\bin\Debug\netstandard2.0\ref\Demo.dll
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.dll
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\ref\Demo.dll
+C:\Users\Sylas Coker\source\repos\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.pdb
